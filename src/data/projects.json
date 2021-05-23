@@ -1,0 +1,28 @@
+[
+    {
+        "title": "ComposerTrivia",
+        "date": "Apr 2017 – Sept 2017",
+        "technologies": [
+            "AngularJS",
+            "Bootstrap",
+            "Node.js",
+            "HTML",
+            "CSS"
+        ],
+        "bullet_points": [
+            "Created a RESTful single-page application that presents snippets of musical pieces and a multiple choice of composers.",
+            "Implemented and deployed server on Heroku."
+        ]
+    },
+    {
+        "title": "Habitalize",
+        "date": "Dec 2016 – Feb 2017",
+        "technologies": [
+            "Java",
+            "SQLite"
+        ],
+        "bullet_points": [
+            "Created an Android application for tracking progresses of habits-to-be and daily tasks."
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "area": "Languages",
+        "bullet_points": [
+            "Java",
+            "Python",
+            "SQL",
+            "PL/SQL",
+            "C#",
+            "C/C++",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "area": "Frameworks/Libraries",
+        "bullet_points": [
+            "ASP.NET",
+            "Android",
+            "ReactJS",
+            "Node.js",
+            "Django"
+        ]
+    },
+    {
+        "area": "Operating Systems",
+        "bullet_points": [
+            "Windows",
+            "Linux"
+        ]
+    },
+    {
+        "area": "Others",
+        "bullet_points": [
+            "Git",
+            "SVN"
+        ]
+    }
+]

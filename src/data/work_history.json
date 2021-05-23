@@ -1,0 +1,28 @@
+[
+    {
+        "position": "Software Developer",
+        "company": "RPM Technologies, a Broadridge Company",
+        "date": "Sept 2017 - Present",
+        "bullet_point": [
+            "Developed features for an enterprise financial services application.",
+            "Collaborated with BAs and QAs on large software projects that would satisfy complex regulatory and technical requirements.",
+            "Developed backend APIs that interfaced both the in-house and third party frontend applications (Java, PL/SQL).",
+            "Developed responsive UI pages for a client-facing application (C#, ASP.NET, HTML, CSS, JavaScript).",
+            "Performance tuned PL/SQL scripts by analyzing explain plans and runtimes.",
+            "Contributed as a client onboarding team member that migrated a new client's data into the system.",
+            "Developed in-house developer tools to increase work efficiency (Python)."
+        ]
+    },
+    {
+        "position": "Backend Development Intern",
+        "company": "Lokafy",
+        "date": "May 2017 – Aug 2017",
+        "bullet_point": [
+            "Implemented OAuth for Google, Facebook, and Twitter APIs to allow users to authenticate through these social platforms (Python, Django).",
+            "Improved code maintainability through refactoring and developing test cases in parallel to preserve existing features.",
+            "Updated code that utilized deprecated dependencies to be compatible with the newer versions.",
+            "Collaborated on database redesign and data migration in order to reduce data redundancy.",
+            "Managed deployments to the production server."
+        ]
+    }
+]
