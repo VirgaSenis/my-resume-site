@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-resume-site/static/css/main.58724505.chunk.css",
-    "main.js": "/my-resume-site/static/js/main.24b8909b.chunk.js",
-    "main.js.map": "/my-resume-site/static/js/main.24b8909b.chunk.js.map",
-    "runtime-main.js": "/my-resume-site/static/js/runtime-main.378ba1e3.js",
-    "runtime-main.js.map": "/my-resume-site/static/js/runtime-main.378ba1e3.js.map",
-    "static/js/2.74cbf32b.chunk.js": "/my-resume-site/static/js/2.74cbf32b.chunk.js",
-    "static/js/2.74cbf32b.chunk.js.map": "/my-resume-site/static/js/2.74cbf32b.chunk.js.map",
-    "index.html": "/my-resume-site/index.html",
-    "static/css/main.58724505.chunk.css.map": "/my-resume-site/static/css/main.58724505.chunk.css.map",
-    "static/js/2.74cbf32b.chunk.js.LICENSE.txt": "/my-resume-site/static/js/2.74cbf32b.chunk.js.LICENSE.txt",
-    "static/media/folder.2d5f7d2f.svg": "/my-resume-site/static/media/folder.2d5f7d2f.svg",
-    "static/media/pdf.ad326e61.svg": "/my-resume-site/static/media/pdf.ad326e61.svg",
-    "static/media/resume.88c23108.pdf": "/my-resume-site/static/media/resume.88c23108.pdf"
+    "main.css": "/resume/static/css/main.58724505.chunk.css",
+    "main.js": "/resume/static/js/main.03334989.chunk.js",
+    "main.js.map": "/resume/static/js/main.03334989.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.5aa2178b.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.5aa2178b.js.map",
+    "static/js/2.74cbf32b.chunk.js": "/resume/static/js/2.74cbf32b.chunk.js",
+    "static/js/2.74cbf32b.chunk.js.map": "/resume/static/js/2.74cbf32b.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/css/main.58724505.chunk.css.map": "/resume/static/css/main.58724505.chunk.css.map",
+    "static/js/2.74cbf32b.chunk.js.LICENSE.txt": "/resume/static/js/2.74cbf32b.chunk.js.LICENSE.txt",
+    "static/media/folder.2d5f7d2f.svg": "/resume/static/media/folder.2d5f7d2f.svg",
+    "static/media/pdf.ad326e61.svg": "/resume/static/media/pdf.ad326e61.svg",
+    "static/media/resume.98300e82.pdf": "/resume/static/media/resume.98300e82.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.378ba1e3.js",
+    "static/js/runtime-main.5aa2178b.js",
     "static/js/2.74cbf32b.chunk.js",
     "static/css/main.58724505.chunk.css",
-    "static/js/main.24b8909b.chunk.js"
+    "static/js/main.03334989.chunk.js"
   ]
 }
