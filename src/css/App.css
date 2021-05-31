@@ -48,6 +48,22 @@
     text-decoration: none;
 }
 
+.Sticky-note {
+    font-size: calc(5px + 1vmin);
+    position: absolute;
+    min-height: 30%;
+    width: 15%;
+    top: 2%;
+    right: 1%;
+    background-color: #e6e600;
+    word-wrap: break-word;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.Sticky-note .header {
+    min-height: 2vh;
+}
+
 .App {
     min-height: 100vh;
 }

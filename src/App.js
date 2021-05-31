@@ -5,6 +5,7 @@ import Resume from './pdf/resume.pdf';
 import WorkHistory from './data/work_history.json';
 import Education from './data/education.json';
 import TechSkills from './data/technical_skills.json';
+import Note from './data/notes.json';
 import './css/App.css';
 import React from 'react';
 import Window from './Window.js';
@@ -111,6 +112,24 @@ function TechnicalSkillsContent(props) {
     )
 }
 
+function StickyNote(props) {
+    return (
+        <div className="Sticky-note">
+            <header className="header" />
+            <div>
+            <ul>
+                {Note.map(point => {
+                    return (
+                        <li key={point}>{point}</li>
+                    )
+                })}
+            </ul>
+            </div>
+
+        </div>
+    )
+}
+
 class App extends React.Component {
     constructor(props) {
         super(props);
@@ -142,6 +161,7 @@ class App extends React.Component {
         return (
             <div className="App">
                 <div className="Desktop">
+                    <StickyNote></StickyNote>
                     <header className="App-header">
                         {/* <Folder caption="Projects" /> */}
                         <TextFile caption="Employment History" onClick={() => this.openWindow(0)} />
@@ -156,7 +176,6 @@ class App extends React.Component {
             </div>
         );
     }
-
 }
 
 export default App;
